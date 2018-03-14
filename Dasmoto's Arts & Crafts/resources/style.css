@@ -1,0 +1,37 @@
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+#top-header {
+  background-image: url("../images/pattern.jpeg");
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushes-hero {
+  background-color: mediumspringgreen;
+}
+
+#frames-hero {
+  background-color: lightcoral;
+}
+
+#paint-hero {
+  background-color: skyblue;
+}
+
+.pricing {
+  font-weight: bold;
+  color: blue;
+}
